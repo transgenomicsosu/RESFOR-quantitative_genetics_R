@@ -1,6 +1,8 @@
 # RESFOR-quantitative_genetics_R
 quantitative_genetics_R
 
+R scrips used in Genome Canada, Genome Alberta and Genome BC funded Resilient Forest (RES-FOR) project. Details see: https://github.com/RESFOR
+
 multi-trait and milti-site ABLUP and HBLUP Copyright @ Dr. Eduardo Pablo Cappa (cappa.eduardo@inta.gob.ar).
 
 The multi-trait and milti-site R-script fits the standard pedigree-based ABLUP and combined pedigree-genomic based HBLUP models using the breedR R-package. The outputs of this R-script are the genetic and residual (co)variance components, and the breeding values and its accuracies for both models.
